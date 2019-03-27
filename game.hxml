@@ -1,0 +1,5 @@
+-lib heaps
+-js hello.js
+-main Game
+-D windowSize = 800x600
+-debug
